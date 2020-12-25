@@ -1,0 +1,3 @@
+Name: Nat
+Age: 25
+Favourite color: blue
